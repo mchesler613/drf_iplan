@@ -1,6 +1,9 @@
 # drf_iplan
 drf_iplan is the DRF APIs for the `iplan` project. 
 
+## Django Packages
+$ pip install djangorestframework
+
 ## The main endpoints
 
 + /people - list the `Person` model instances, connected with a `User`
